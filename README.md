@@ -11,5 +11,9 @@ ScreenShots :
 <span>
  <img height=400 width=200 src="https://user-images.githubusercontent.com/29357444/106104153-0e56e180-6168-11eb-9518-889758eb00ea.jpg" />
  </span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
+ <img height=400 width=200 src="https://user-images.githubusercontent.com/29357444/106107153-950dbd80-616c-11eb-96cc-ba5c1460fa3b.gif" />
+ </span>
  <br><br>
 Its Open Source ! Go ahead and use it as you want :) 
